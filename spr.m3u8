@@ -1,4 +1,5 @@
-
+EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT 
+http://31.172.87.57:2200/EX/beinsports1hd-tr/tracks-v1a1/mono.m3u8?token=RED_bAIBKC44-Mq2AWEY4iU4YQ%3D%3D%2C2343489031.1233084989
 EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
 https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
