@@ -1,0 +1,43 @@
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS HABER" tvg-logo="" group-title="Sport",TR: BEIN SPORTS HABER
+https://flux.noxstrm.club/hls/bein-sports-haber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1" tvg-logo="" group-title="Sport",TR: SPOR SMART 1
+https://flux.noxstrm.club/hls/spor-smart.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSPOR 1" tvg-logo="" group-title="Sport",TR: SSPOR 1
+https://flux.noxstrm.club/hls/s-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SSPOR HD 2" tvg-logo="" group-title="Sport",TR: SSPOR HD 2
+https://flux.noxstrm.club/hls/s-sports-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 HD" tvg-logo="" group-title="Sport",TR: TIVIBU SPOR 1 HD
+https://flux.noxstrm.club/hls/tivibu-spor-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="" group-title="Sport",TR: TIVIBU SPOR 2 HD
+https://flux.noxstrm.club/hls/tivibu-spor-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="" group-title="Sport",TR: TIVIBU SPOR 3 HD
+https://flux.noxstrm.club/hls/tivibu-spor-3.m3u8
+EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR| SPOR",TRT SPOR2 YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR| SPOR",TRT SPOR2 YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pQvb87s/trt3s.png" group-title="|TR| SPOR",TRT3 SPOR
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
+http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR| SPOR",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jn9DTG1/tay.png" group-title="|TR| SPOR",TAY TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="|TR| SPOR",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+
