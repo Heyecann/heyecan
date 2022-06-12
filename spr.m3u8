@@ -1,31 +1,52 @@
-EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT 
-http://31.172.87.57:2200/EX/beinsports1hd-tr/tracks-v1a1/mono.m3u8?token=RED_bAIBKC44-Mq2AWEY4iU4YQ%3D%3D%2C2343489031.1233084989
-EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yRZ79Gn/trtspor.png" group-title="|TR| SPOR",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR| SPOR",TRT SPOR2 YILDIZ
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="|TR| SPOR",TRT SPOR2 YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pQvb87s/trt3s.png" group-title="|TR| SPOR",TRT3 SPOR
-https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="|TR| SPOR",A SPOR
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
-http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="|TR| SPOR",GALATASARAY TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/rynNr53/yabantv.png" group-title="|TR| SPOR",YABAN TV
-http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jn9DTG1/tay.png" group-title="|TR| SPOR",TAY TV
-https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png" group-title="|TR| SPOR",TJK TV
-http://tjktv.ercdn.net/tjktv.m3u8
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oIxCVoCxab89c-jm0avElW_p6n25bW9ahg&usqp=CAU" group-title="|TR| Bein spor haber",TRT 
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/7448
+#EXTINF:-1,TR: beIN Sports 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1735
+#EXTINF:-1,TR: beIN Sports 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1737
+#EXTINF:-1,TR: beIN Sports 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1739
+#EXTINF:-1,TR: beIN Sports 4
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/7450
+#EXTINF:-1,TR: beIN Sports Max 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/8224
+#EXTINF:-1,TR: beIN Sports Max 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16878
+#EXTINF:-1,TR: Tivibu Spor
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1746
+#EXTINF:-1,TR: Tivibu Spor 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1748
+#EXTINF:-1,TR: Tivibu Spor 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1749
+#EXTINF:-1,TR: Spor Smart
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1750
+#EXTINF:-1,TR: Spor Smart 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/50121
+#EXTINF:-1,TR: S Sport
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/50121
+#EXTINF:-1,TR: S Sport 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/10167
+#EXTINF:-1,TR: Sports TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/89846
+#EXTINF:-1,TR: EUROSPORT 1
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1755
+#EXTINF:-1,TR: EUROSPORT 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/1756
+#EXTINF:-1,TR: EXXEN Sports 2
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281455
+#EXTINF:-1,TR: EXXEN Sports 3
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/281456
+#EXTINF:-1,TR: Galatasaray TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/618
+#EXTINF:-1,TR: Fenerbahce TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/575
+#EXTINF:-1,TR: TRT Spor
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/528
+EXTINF:-1,TR: TRT Spor Yildiz
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/32095
+#EXTINF:-1,TR: A Spor
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/529
+#EXTINF:-1,TR: TJK TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/594
+#EXTINF:-1,TR: Tay TV
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/16887
